@@ -16,5 +16,5 @@
   ],
   "rewrites": [
     { "source": "/(.*)", "destination": "/404" }
-  ],
+  ]
 }
